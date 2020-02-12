@@ -1,0 +1,6 @@
+You wake up in a tunnel with no knowledge on how you got there.
+You must choose to take a path. One goes left and one goes right.
+
+What would you like to do?
+1. Take the right path
+2. Take the left path
