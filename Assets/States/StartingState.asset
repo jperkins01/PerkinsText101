@@ -17,11 +17,14 @@ MonoBehaviour:
     You
     must choose to take a path. One goes left and one goes right.
 
-    
 
-    What
-    would you like to do?
+
+    What would
+    you like to do?
 
     1. Take the right path
 
     2. Take the left path'
+  nextStates:
+  - {fileID: 11400000, guid: 0f58bac3523b4d341aa4211005581413, type: 2}
+  - {fileID: 11400000, guid: b8c28d25937b7dc4fad38cb6bb9a45c0, type: 2}
