@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
+  m_Name: Game Over
+  m_EditorClassIdentifier: 
+  storyText: "\t\tGame Over\r\nYou go right and start walking down the dark tunnel
+    until reaching what looked like a cell door. You slide the cell door open and
+    on the other side there was a staircase which lead to a door with a sign that
+    read \"EXIT\". You take the door and are now outside and free from the tunnels.\r\n\rWould
+    you like to play again?\n1. Yes, lets do it! \n2. No, i'm good.\n\r"
+  nextStates:
+  - {fileID: 11400000, guid: ea4259a816dce3c459e990ed0e46d3c7, type: 2}
+  - {fileID: 11400000, guid: 2726743b7f60f714b8f888241a9ed184, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  storyText: "After choosing the path to the left, you walk down a dark tunnel with
+    nothing but sounds of dripping water until reaching a wall. On the wall there
+    is a space small enough to crawl through and on another wall there is a scary
+    looking door. \r\nYou must choose to either crawl through the crawl space or
+    go through the door.\r\n\r\nWhat would you like to do?\r\n1. Crawl through the
+    crawl space\r\n2. Go through the door"
+  nextStates:
+  - {fileID: 11400000, guid: 0f58bac3523b4d341aa4211005581413, type: 2}
+  - {fileID: 11400000, guid: ea4259a816dce3c459e990ed0e46d3c7, type: 2}
