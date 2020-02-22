@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: E3
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You go back with the gun and you come to a bloody door which had a
+    note in front of it that said, \"What lays beyond this door may harm you without
+    the right equipment.\" \n\nYou enter the door and a giant spider appears. \n\nYou
+    have a choice to shoot the spider or cry like a baby until you die.\r\n\r\nWhat
+    would you like to do?\r\n1. Shoot the spider\r\n2. Cry like a baby\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 3f559b51e98ef9d4794eaae65b793538, type: 2}
+  - {fileID: 11400000, guid: cb6ec1d2231b5f341b382676ee5840cd, type: 2}

@@ -12,22 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: A1
   m_EditorClassIdentifier: 
-  storyText: 'You wake up in a tunnel with no knowledge on how you got there and
-    a flashlight by your side. You look up to see 2 paths going in different directions.
-
-    You
-    must choose to take a path. One goes left and one goes right.
-
-    
-
-    
-
-    What
-    would you like to do?
-
-    1. Take the right path
-
-    2. Take the left path'
+  storyText: "You wake up in a tunnel with no knowledge on how you got there and
+    a flashlight by your side. \n\nYou look up to see 2 paths going in different
+    directions.\r\n\nYou must choose to take a path. One goes left and one goes right.\r\n\r\n\r\nWhat
+    would you like to do?\r\n1. Take the right path\r\n2. Take the left path"
   nextStates:
   - {fileID: 11400000, guid: 0f58bac3523b4d341aa4211005581413, type: 2}
   - {fileID: 11400000, guid: b8c28d25937b7dc4fad38cb6bb9a45c0, type: 2}

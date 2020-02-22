@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: B1
   m_EditorClassIdentifier: 
   storyText: "After choosing the path to the left, you walk down a dark tunnel with
-    nothing but sounds of dripping water until reaching a wall. On the wall there
+    nothing but sounds of dripping water until reaching a wall. \n\nOn the wall there
     is a space small enough to crawl through and on another wall there is a scary
-    looking door. \r\nYou must choose to either crawl through the crawl space or
+    looking door. \r\n\nYou must choose to either crawl through the crawl space or
     go through the door.\r\n\r\nWhat would you like to do?\r\n1. Crawl through the
     crawl space\r\n2. Go through the door"
   nextStates:
-  - {fileID: 11400000, guid: 0f58bac3523b4d341aa4211005581413, type: 2}
-  - {fileID: 11400000, guid: ea4259a816dce3c459e990ed0e46d3c7, type: 2}
+  - {fileID: 11400000, guid: c60500861aed78c488324a3865b4de4e, type: 2}
+  - {fileID: 11400000, guid: a2018105c9a7a02438ec3af7abb4d2b9, type: 2}

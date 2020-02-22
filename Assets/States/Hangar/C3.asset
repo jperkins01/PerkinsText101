@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: C3
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "Game Over\n\nYou enter the door and a giant spider pounces on you and
+    eats you alive.\r\n\n\r\rWould you like to play again?\n1. Yes, lets do it! \n2.
+    No, i'm good.\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: ea4259a816dce3c459e990ed0e46d3c7, type: 2}
+  - {fileID: 11400000, guid: 2726743b7f60f714b8f888241a9ed184, type: 2}

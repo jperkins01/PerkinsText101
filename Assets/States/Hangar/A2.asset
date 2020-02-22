@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: A2
   m_EditorClassIdentifier: 
   storyText: "After Choosing the path to the right you walk down a dark tunnel until
-    reaching what smells like...\r\nSewage!!\r\nYou must choose to either turn around
-    and take the other path or continue straight. \r\n\r\n\r\nWhat would you like
-    to do?\r\n1. Turn around\r\n2. keep going "
+    reaching what smells like...\r\n\nSewage!!\r\n\nYou must choose to either turn
+    around and take the other path or continue straight. \r\n\r\n\rWhat would you
+    like to do?\r\n1. Turn around\r\n2. keep going "
   nextStates:
   - {fileID: 11400000, guid: b8c28d25937b7dc4fad38cb6bb9a45c0, type: 2}
-  - {fileID: 11400000, guid: ea4259a816dce3c459e990ed0e46d3c7, type: 2}
+  - {fileID: 11400000, guid: 82f7ba4cc2915c04891d450add35aa2f, type: 2}

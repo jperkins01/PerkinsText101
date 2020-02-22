@@ -12,5 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: A6
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'Game Over
+
+
+    You took a bite out of the sandwich and slowly curled
+    up and died after consuming poison.
+
+    
+
+    
+
+'
   nextStates: []

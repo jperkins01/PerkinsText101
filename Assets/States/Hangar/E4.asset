@@ -12,5 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: E4
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You kill the spider and you have the choice to either search around
+    the room before entering the next room or leaving immediately.
+
+    
+
+    What
+    would you like to do?
+
+    1. Leave
+
+    2. Search the room before leaving
+
+    
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 72d598e44ebb8e144bae797c9e5fecb6, type: 2}
+  - {fileID: 11400000, guid: 87faf83ead452684ebd138fc129d1d59, type: 2}

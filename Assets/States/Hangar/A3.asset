@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: A3
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You chose to keep going through the sewage despite the smell and you
+    come across 2 doors. \n\nOne door has a sign saying COME IN and the other door
+    says STAY OUT.\n\nWhat door do you choose to enter?\r\n\r\n\rWhat would you like
+    to do?\r\n1. Enter door that says COME IN\r\n2. Go through the door that says
+    STAY OUT."
+  nextStates:
+  - {fileID: 11400000, guid: 9ed600017408efb488d8f851e6eba330, type: 2}
+  - {fileID: 11400000, guid: e09befff1ff0df14997f72af5bc28b2e, type: 2}

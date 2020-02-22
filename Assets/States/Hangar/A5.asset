@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: A5
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You finish the apple and you have two choices, you can eat the sandwich
+    before leaving or go back to the door that says stay out. \r\n\r\n\rWhat would
+    you like to do?\r\n1. eat the sandwich first\r\n2. Go back to the door"
+  nextStates:
+  - {fileID: 11400000, guid: 29be3ba308762f04dacf565f8b06c503, type: 2}
+  - {fileID: 11400000, guid: e09befff1ff0df14997f72af5bc28b2e, type: 2}

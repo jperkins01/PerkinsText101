@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: D2
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You go left and you start walking through something super sticky when
+    you realize your shoes are stuck in the substance. \n\nDo you want to continue
+    through the sticky substance without your shoes on or turn around and go down
+    the other tunnel without your shoes.\r\n\r\n\rWhat would you like to do?\r\n1.
+    continue\r\n2. turn around"
+  nextStates:
+  - {fileID: 11400000, guid: 71db2a16c34966941bc39ba665870b23, type: 2}
+  - {fileID: 11400000, guid: 21e5eb0c58faea34787f23fddc75bb69, type: 2}

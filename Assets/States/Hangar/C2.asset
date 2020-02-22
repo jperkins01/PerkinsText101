@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: C2
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You choose to go left and you come to a bloody door which had a note
+    in front of it that said, \"What lays beyond this door may harm you without the
+    right equipment.\"\n\nYou have the choice to go back and take the other turn
+    in the crawl space or enter the door.\r\n\r\n\rWhat would you like to do?\r\n1.
+    Go back \r\n2. Enter the door"
+  nextStates:
+  - {fileID: 11400000, guid: d189aea30d7f6834eacc76ec377a1b07, type: 2}
+  - {fileID: 11400000, guid: 94b926fcc726abc46ab94ca873c7479f, type: 2}

@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: D1
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You enter the door that says STAY OUT and you continue down a narrow
+    tunnel until getting to a point where you have to make a choice. \n\nDo you go
+    left down the tunnel full of light or right down the dark tunnel.\r\n\r\n\rWhat
+    would you like to do?\r\n1. Go left\r\n2. Go right"
+  nextStates:
+  - {fileID: 11400000, guid: 85be039a110c33544a860d1420c89370, type: 2}
+  - {fileID: 11400000, guid: 21e5eb0c58faea34787f23fddc75bb69, type: 2}

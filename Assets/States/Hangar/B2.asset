@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: B2
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "After the door closes behind you, you notice there is nothing in the
+    room but a piece of paper and a gun. \nThe piece of paper says, \"The door is
+    locked and you have two choices... Starve to death or take the easy way out?\"\r\n\r\n\rWhat
+    would you like to do?\r\n1. Starve to death\r\n2. Take the easy way out"
+  nextStates:
+  - {fileID: 11400000, guid: cb6ec1d2231b5f341b382676ee5840cd, type: 2}
+  - {fileID: 11400000, guid: cb6ec1d2231b5f341b382676ee5840cd, type: 2}

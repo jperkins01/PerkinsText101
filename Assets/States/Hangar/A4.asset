@@ -12,5 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: A4
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You enter the door and in the distance you can see light. \n\nAfter
+    walking to the end of the tunnel you enter a room with a bright light on in the
+    room and on the table there was a note. \n\nThe note said, \"you went the wrong
+    way but i bet you're hungry, have a snack.\" \n\nWhat would you like a apple
+    or a sandwich. \r\n\r\n\rWhat would you like to do?\r\n1. Choose the apple\r\n2.
+    Choose the sandwich"
+  nextStates:
+  - {fileID: 11400000, guid: 9b48e83a2c5f2004a8ec553ccf408ab2, type: 2}
+  - {fileID: 11400000, guid: 29be3ba308762f04dacf565f8b06c503, type: 2}

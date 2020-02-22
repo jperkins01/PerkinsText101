@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: E7
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You pick up the lock picks and enter the door \rand after looking around
+    you realize there is nothing in the room. \n\nYou turn around to notice the door
+    locked behind you. \n\nYou have two choices, pick the door and go all the way
+    back to the beginning and take the other path or give up and die alone in a dark
+    room.\r\n \r\n\rWhat would you like to do?\r\n1. Go back\r\n2. Die\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 82f7ba4cc2915c04891d450add35aa2f, type: 2}
+  - {fileID: 11400000, guid: 55fb5a878c4f1634e8002f396131c223, type: 2}

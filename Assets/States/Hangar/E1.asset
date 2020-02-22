@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: E1
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You crawl through the crawl space until coming to an end and in front
+    of you, a gun lays on the floor. \n\nYou have the choice to go back and take
+    the other way in the crawl space with or without the gun.\r\n\r\n\rWhat would
+    you like to do?\r\n1. Go with the gun\r\n2. Go without the gun"
+  nextStates:
+  - {fileID: 11400000, guid: 94abca1eaf4ff0e4a856ce3515738c44, type: 2}
+  - {fileID: 11400000, guid: 59a9a7429798cfe48bda93280536f716, type: 2}

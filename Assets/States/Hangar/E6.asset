@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: E6
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You search through the room until coming across a lock pick. \n\nDo
+    you choose to pick it up or leave it before entering the door?\r\n\r\nWhat would
+    you like to do?\r\n1. Pick it up\r\n2. Leave it\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 0587c2c159f920448b6289edf3d3432f, type: 2}
+  - {fileID: 11400000, guid: 72d598e44ebb8e144bae797c9e5fecb6, type: 2}

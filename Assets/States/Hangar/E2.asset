@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: E2
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You go back without the gun and you come to a bloody door which had
+    a note in front of it that said, \"What lays beyond this door may harm you without
+    the right equipment.\" \n\nYou enter the door and a giant spider eats you alive.\r\n\r\n\rWould
+    you like to play again?\n1. Yes, lets do it! \n2. No, i'm good.\n"
+  nextStates:
+  - {fileID: 11400000, guid: ea4259a816dce3c459e990ed0e46d3c7, type: 2}
+  - {fileID: 11400000, guid: 2726743b7f60f714b8f888241a9ed184, type: 2}

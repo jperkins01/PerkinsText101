@@ -14,13 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: 'Welcome to the Dark Tunnel!
 
-    At each stage of the game choose either
-    1 or 2 depending on the decision you want to make.
 
-    Your choices choose your
-    fate, so choose wisely..
+    At each stage of the game choose
+    either "1" or "2" depending on the decision you want to make.
 
 
-    At any point in time press Q to quit.'
+    Your choices
+    choose your fate, so choose wisely..
+
+
+    At any point in time press Q to quit.
+
+
+    Push
+    "1" to start'
   nextStates:
   - {fileID: 11400000, guid: ea4259a816dce3c459e990ed0e46d3c7, type: 2}

@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2a1a18e90813646820de5e798e4a46, type: 3}
   m_Name: C1
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "While crawling through the crawl space you come across a split in the
+    crawl space and you have the choice to go left or go right.\r\n\r\n\r\nWhat would
+    you like to do?\r\n1. Go left \r\n2. Go Right"
+  nextStates:
+  - {fileID: 11400000, guid: aa89fdd58674a61489360827a3cfd906, type: 2}
+  - {fileID: 11400000, guid: d189aea30d7f6834eacc76ec377a1b07, type: 2}
